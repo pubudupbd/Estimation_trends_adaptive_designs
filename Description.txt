@@ -1,0 +1,12 @@
+This folder contains WinBUGS and R code for reproducing results in the manuscript titled "Assessing the ability of adaptive designs to capture trends in hard
+coral cover”. 
+
+A brief description about the contents within each folder is provided below. 
+
+R2WINBUGS: R2Winbugs code for posterior approximation for the final model choice.
+
+REEF DROPPING SCENARIO: This contains codes related to one reef dropping example that we considered under "REEF DROPPING" scenario in the manuscript. It is straight forward to extend this for two and three reef dropping examples through considering appropriate all possible designs.
+
+SITE DROPPING SCENARIO: This contains codes related to three sites dropping example that we considered under "SITE DROPPING" scenario in the manuscript. It is straight forward to extend this for other site dropping examples through appropriately formulating related designs as described in the manuscript. 
+
+OPTIMAL VS WORST: This contains codes related to the optimal vs worst designs comparison under dropping one reef. The same procedure can be used to evaluate the optimal and worst designs under dropping two reefs considering in the manuscript. 
